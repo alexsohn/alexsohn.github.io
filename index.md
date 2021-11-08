@@ -8,32 +8,4 @@ Working on setting up this page, check back soon for new updates!
 
 ### Projects
 
-In 2018 I saw a [YouTube Video](https://www.youtube.com/watch?v=QmIM24JDE3A) reviewing a submission to RSNA's Pneomnia ML challenge 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexsohn/alexsohn.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Two Minute Papers is a YouTube channel I've followed for quite some time. In 2018 I saw one of his [videos](https://www.youtube.com/watch?v=QmIM24JDE3A) reviewing Stanford ML Group's submission to RSNA's Pneumonia ML challenge. This inspired me to try to code a ML solution to RSNA's challenge. This was tricker than I expected and I quickly got bogged down in simply working with the DICOM files and database structure provided. This experience helped me learn about data science. I was eventually able to run a simple ML script for processing the images, but my focus of the project had gone into managing the data base provided.
