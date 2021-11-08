@@ -4,11 +4,11 @@ Welcome to my GitHub Pages site. This page will have up-to-date information on m
 
 Currently enrolled full time at Cascadia College. Looking forward to an internship at ISB.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Working on setting up this page, check back soon for new updates!
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In 2018 I saw a [YouTube Video](https://www.youtube.com/watch?v=QmIM24JDE3A) reviewing a submission to RSNA's Pneomnia ML challenge 
 
 ```markdown
 Syntax highlighted code block
