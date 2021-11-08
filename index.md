@@ -1,6 +1,8 @@
 ## Alex Sohn
 
-You can use the [editor on GitHub](https://github.com/alexsohn/alexsohn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my GitHub Pages site. This page will have up-to-date information on my projects.
+
+Currently enrolled full time at Cascadia College. Looking forward to an internship at ISB.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
